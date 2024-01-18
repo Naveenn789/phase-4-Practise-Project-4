@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tDr1SpbYbdIllzNxqcIEHRj4wr7qvKUNxSE+0mms3YczyaLzUJ5EO1eP/LnMId64Av4AUoU1qi03vGBq8YFUsg==",
+  "success": true,
+  "projectFilePath": "C:\\Mphasis\\Phase-4\\practise-projects\\Practise-project-4\\WebAppBankDocker\\WebAppBankDocker\\WebAppBankDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
